@@ -1,0 +1,15 @@
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('José da Penha Silva', '10225607809', 2500.0, '1975-10-23T23:10:00Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('João Paulo Lacerda', '11425717839', 1500.0, '1978-07-05T15:50:00Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Maria Paula Fontes', '01836828940', 4500.0, '1982-04-17T09:33:00Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Lorena Martins da Costa', '12947939038', 5000.0, '1990-06-07T13:58:00Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Mauro Pimenta Dias', '13158040107', 11300.0,'1989-01-31T22:02:00Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Mauricélia Gomes Pordeus', '22569151188', 10500.0, '1979-11-15T02:27:00Z', 4);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('José Augusto Cruz', '30970162226', 9000.0, '1968-02-28T12:51:00Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('João Pedro Lopes', '10541027834', 8500.0, '1983-07-14T01:54:00Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Joana Darc Pedrosa', '23800403509', 1500.0, '1985-10-04T08:31:00Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Damiana da Silva Pereira', '40925817902', 3000.0, '1987-05-14T10:15:00Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Carlos Daniel Dantas', '72875777144', 5500.0, '1986-11-21T00:23:00Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Josefina de Medos Queiros', '33529710848', 2500.0, '1993-04-03T21:45:00Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Flávia Ximenez Bezerra', '39149125728', 4000.0, '1991-06-12T05:42:00Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Carlos Alberto de Freitas', '45135491033', 6000.0, '1992-08-10T23:01:00Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Bruna Cazares Farias', '33926129825', 11000.0, '1994-07-28T06:24:00Z', 3);
